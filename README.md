@@ -13,7 +13,7 @@ GAN from images that fetched from Picsearch.com. Made for testing purpose to pro
 ## Setup
 Clone this repo:
 ```
-git clone https://github.com/andreiliphd/financial-modeling-ras-neural-network.git
+git clone https://github.com/andreiliphd/gan-beautiful-soup-pytorch-picsearch.git
 ```
 Install all the dependencies.
 
