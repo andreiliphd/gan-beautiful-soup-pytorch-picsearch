@@ -19,7 +19,6 @@ Install all the dependencies.
 
 ---
 
-
 ## Usage
 
 Please provide a query but remember that Picsearch images are vary very much so additional tunining might be required.
