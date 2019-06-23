@@ -1,7 +1,7 @@
 # GAN from images that fetched from Picsearch.com.
 ============
 
-GAN from images that fetched from Picsearch.com. Made for testing purpose to prove that GAN can work with small datasets.
+GAN from images that fetched from Picsearch.com. Made for testing purpose to prove that GAN can work with small datasets. I used official GAN implementation from [PyTorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html). Images from PyTorch are subject to copyright. Be aware of that! It is just an example of BS4 work in practice.
 
 ---
 
